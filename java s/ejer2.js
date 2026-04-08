@@ -19,13 +19,13 @@ console.log("La multiplicacion es: ", multi);
 
 if(  valores[3].length < valores[4].length) {
 
-console.log("La afirmación es: ", valores[0])
+console.log("La afirmación es: ", valores[0]);
 
 }
 
 if(  valores[3].length > valores[4].length) {
 
-console.log("La afirmación es: ", valores[2])
+console.log("La afirmación es: ", valores[2]);
 
 }
 
