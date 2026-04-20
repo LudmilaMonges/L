@@ -18,7 +18,7 @@ var resto = dni1 % 23;
 console.log("El resto es" ,resto);
 console.log("La letra elegida es" , letras[resto]);
 
-if(letra==letras[resto] ){
+if(letra==letras[resto]){
 
     console.log("La letra coincide");
     

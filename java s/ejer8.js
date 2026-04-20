@@ -11,7 +11,7 @@ function palin(){
 }
     else {
 
-        if(cadena == cadenaModificada){
+        if(cadenaAnalizado == cadenaModificada){
              console.log("Es un palindromo");
 
 
